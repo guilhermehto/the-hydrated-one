@@ -1,3 +1,3 @@
 ## The Hydrated One
 
-Twitter -god- bot.
+Twitter ~god~ bot.
